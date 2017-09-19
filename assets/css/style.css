@@ -113,3 +113,14 @@ navbar-brand a {
 .portimage {
     width: 100%;
 }
+
+
+.caption {
+  background-color:#4aaaa5 ;
+  width: 88%;
+  position: absolute;
+  bottom:15%;
+  text-align: center;
+  color:#ffffff ;
+}
+
